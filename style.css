@@ -1,0 +1,24 @@
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    display: block;
+    float: left;
+}
+
+table.work, th.work, td.work{
+    border: 1px;
+    width: 50%;
+    border-spacing: 10px;
+    text-align: center;
+}
+
+p.info{
+    word-wrap: break-word;
+    text-overflow: clip;
+}
+
+
+    
+
+
